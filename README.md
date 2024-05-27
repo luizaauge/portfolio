@@ -1,6 +1,10 @@
-# Personal Portfolio Website ✨
+# Personal Portfolio Website 
 
-This project is a personal portfolio website developed using the Flask framework. The website serves as a platform to showcase my skills, experiences, and projects in web development.
+## Overview ✨
+This project is a personal portfolio website developed using Flask, a micro web framework written in Python. The website is currently hosted on PythonAnywhere and can be accessed at http://luizaauge.pythonanywhere.com/.
+
+## Hosting 💻
+The website is hosted on PythonAnywhere, a popular online hosting platform that supports Python web applications. PythonAnywhere was chosen for its ease of use, reliability, and built-in support for Flask applications.
 
 ## Key Features 🚀
 
